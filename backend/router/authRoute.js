@@ -1,4 +1,3 @@
-
 const express = require('express')
 const { signup } = require('../controller/authController')
 
